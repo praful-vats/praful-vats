@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**praful-vats/praful-vats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...01001001
 - 🌱 I’m currently learning ...0111100
 - 👯 I’m looking to collaborate on ...1010001
